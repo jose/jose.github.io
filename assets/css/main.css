@@ -1,0 +1,15 @@
+body {
+  background-color: "#ffffff";
+}
+
+#imgleft {
+  width: 175px;
+  float: left;
+  margin-right: 10px;
+}
+
+#trophy {
+  color: #AA0000;
+  text-shadow: 1px 1px 1px #ccc;
+  width: 20px;
+}
